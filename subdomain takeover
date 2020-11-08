@@ -1,0 +1,21 @@
+Find The SubDomains(Automation):--
+---------------------------------
+1)SubFinder
+2)Amass
+3)SubLister
+4)Aquatone
+5)KnockPy
+6)finddomain -t domain.com --quiet > domain.txt
+
+
+Find The Subdomains(Manually):--
+---------------------------------------
+1)crt.sh
+2)censys.io
+3)shodan.io
+4)google certificate transperency
+5)Facebook certificate transparency
+6)CSP header
+7)viewsdns.info
+8)dnsdumpster.com
+9)virustotal.com
