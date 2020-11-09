@@ -19,3 +19,10 @@ Find The Subdomains(Manually):--
 7)viewsdns.info
 8)dnsdumpster.com
 9)virustotal.com
+
+
+Identify subdomain takeover(AUtomation):--
+------------------------------------------------
+1)subzy ------------  subzy --targets subdomains.txt --concurrency 20 --hide_fails
+2)subjack(haccer) --------subjack -w sites.txt -t 100 -timeout 30 -o results.txt -ssl
+
