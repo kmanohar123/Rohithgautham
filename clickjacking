@@ -1,0 +1,10 @@
+1)securityheaders.com          --- website
+2)samy.pl/quickjack/quickjack.html ------website
+3)shubhman yernale code
+4)inspect element--->network--->check for x-frame-options header
+
+Exploitation:--
+-----------------------------
+ https://github.com/shifa123/clickjackingpoc
+ 
+ php -S localhost:8081 ----------run in terminal 
