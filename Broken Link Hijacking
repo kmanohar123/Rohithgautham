@@ -1,0 +1,10 @@
+Broken-Link-Checker (github)
+                       ----   blc -rof --filter-level 3 https://example.com
+                       
+                      
+deadlinkchecker.com -----------(website)
+
+broken link checker --- extension in chrome
+
+
+dorks:-- org:"example.com" s3.amazonaws.com
